@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Adam Sokólski"
+	"author": "Adam Sokólski",
+	"description": "First project from freeCodeCamp to learn back-end"
 }
