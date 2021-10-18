@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Adam Sokólski",
-	"description": "First project from freeCodeCamp to learn back-end"
+	"description": "First project from freeCodeCamp to learn back-end",
+	"keywords": ["freecodecamp", "learning", "backend", "npm", "nodejs"]
 }
