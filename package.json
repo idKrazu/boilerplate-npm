@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"author": "Adam Sokólski",
+	"description": "First project from freeCodeCamp to learn back-end",
+	"keywords": ["freecodecamp", "learning", "backend", "npm", "nodejs"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,9 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Adam Sokólski",
-	"description": "First project from freeCodeCamp to learn back-end",
-	"keywords": ["freecodecamp", "learning", "backend", "npm", "nodejs"],
-	"license": "MIT"
+	}
+
 }
