@@ -13,5 +13,6 @@
 	},
 	"author": "Adam Sokólski",
 	"description": "First project from freeCodeCamp to learn back-end",
-	"keywords": ["freecodecamp", "learning", "backend", "npm", "nodejs"]
+	"keywords": ["freecodecamp", "learning", "backend", "npm", "nodejs"],
+	"license": "MIT"
 }
